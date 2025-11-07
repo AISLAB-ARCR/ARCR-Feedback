@@ -1,0 +1,12 @@
+*.csv
+*.xlsx
+
+/*log
+/*logs
+
+*.ckpt
+*.pt
+*.pth
+
+__pycache__
+.vscode
